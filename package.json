@@ -1,0 +1,6 @@
+{
+  "name": "astronomy-engine",
+  "version": "2.0.2",
+  "main": "source/js/astronomy.js",
+  "types": "source/js/astronomy.d.ts"
+}
